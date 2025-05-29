@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: lightgray;
+}
+
+#projects {
+  background-color: lightgray;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#contact .row {
+  margin-right: 0;
+  margin-left: 0;
+}
